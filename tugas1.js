@@ -1,5 +1,5 @@
 var namaDepan = "Naruto"
-let namaBelakang = "Naruto"
+let namaBelakang = "Uzumaki"
 
 const umur = 35
 
